@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/BDArthur/BDArthur/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/BDArthur/BDArthur/blob/main/.github/workflows/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
