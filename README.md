@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/l4EoT7llMKm5m6gjm/giphy.gif?cid=790b76112l07rur39u1cy1oxzfutare72w5kszbsx1zkypte&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="400" src="https://github.com/user-attachments/assets/fa823fe4-d2a0-4c00-8281-c9c22e06d702"/>
 </div>
 
-###
+
