@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur and I'm a 16, from Caraguatatuba, São Paulo.</p>
+<p align="left">from Caraguatatuba, São Paulo.</p>
 
 ###
 
