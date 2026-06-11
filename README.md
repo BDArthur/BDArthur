@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating sigmas since 7123 a.C<br>📚 I'm currently learning how to be a alpha<br>🎯 Goals: be a alpha<br>🎲 Fun fact: i'm betinha</p>
+<p align="left">✨UNIFESP (2026-)<br> IFSP (2023-2025)</p>
 
 ###
 
