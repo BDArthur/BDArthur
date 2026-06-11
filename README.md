@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨UNIFESP (2026-)<br> IFSP (2023-2025)</p>
+<p align="left"> UNIFESP (2026-)<br> IFSP (2023-2025)</p>
 
 ###
 
