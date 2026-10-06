@@ -17,7 +17,7 @@
 ###
 <p align="left">
   Estudante de Ciência e Tecnologia na <b>UNIFESP</b> (2026-) e ex-aluno do <b>IFSP</b> (2023-2025).<br>
-  Crio sites e landing pages para pequenos negócios, com HTML, CSS, JavaScript e React.
+  
 </p>
 
 ###
