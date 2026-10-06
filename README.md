@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">from Caraguatatuba, São Paulo.</p>
+<p align="left">São José dos Campos, São Paulo.</p>
 
 ###
 
@@ -12,15 +12,17 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
+
+###
+<p align="left">
+  Estudante de Ciência e Tecnologia na <b>UNIFESP</b> (2026-) e ex-aluno do <b>IFSP</b> (2023-2025).<br>
+  Crio sites e landing pages para pequenos negócios, com HTML, CSS, JavaScript e React.
+</p>
 
 ###
 
-<p align="left"> UNIFESP (2026-)<br> IFSP (2023-2025)</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
@@ -34,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="C logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" alt="html5 logo"  />
 </div>
